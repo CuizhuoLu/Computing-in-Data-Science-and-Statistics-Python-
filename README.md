@@ -2,7 +2,7 @@
 ## Course Learning Outcomes 
 By the end of this course, you will be able to:  
 •Understand and apply the basics of the Python programming language and basic programming pat-
-terns in both the object-oriented and functional programming frameworks. 
+terns in both the object-oriented and functional programming frameworks.   
 •Collect and clean data from a variety of data sources including markup languages from the web,
 databases, and APIs 
 •Analyze and summarize data using matplotlib, numpy, scipy and scikit-learn. 
